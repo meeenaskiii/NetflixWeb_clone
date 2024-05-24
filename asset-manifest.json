@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NetflixWeb_clone/static/css/main.521a21e1.css",
+    "main.js": "/NetflixWeb_clone/static/js/main.4c1e1bf9.js",
+    "static/media/moneyheist.png": "/NetflixWeb_clone/static/media/moneyheist.aadcf286207e23fa7974.png",
+    "static/media/netflixlogo.png": "/NetflixWeb_clone/static/media/netflixlogo.185b7fd65a178ade07ad.png",
+    "index.html": "/NetflixWeb_clone/index.html",
+    "main.521a21e1.css.map": "/NetflixWeb_clone/static/css/main.521a21e1.css.map",
+    "main.4c1e1bf9.js.map": "/NetflixWeb_clone/static/js/main.4c1e1bf9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.521a21e1.css",
+    "static/js/main.4c1e1bf9.js"
+  ]
+}
